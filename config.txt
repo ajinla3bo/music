@@ -1,6 +1,6 @@
 token=NTU2NzkzNzM2MDI2MTI4Mzk0.D2-6PQ.9aH8S1GSqMYmFQcuezYc7I25szU
 owner=473837190145900575 
-prefix=/
+prefix=1
 game=by ajinla3bo#1600
 stayinchannel=true 
 songinstatus=true
